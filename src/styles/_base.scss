@@ -1,0 +1,19 @@
+@import url("https://fonts.googleapis.com/css2?family=Patrick+Hand&family=Roboto:ital,wght@0,400;0,500;0,700;0,900;1,300&display=swap");
+
+$font-handwritten: "Patrick Hand", cursive;
+$font-corporate: "Roboto", sans-serif;
+$color-purple: #623fb0;
+$color-yellow: #ffc232;
+$color-red: #ff4a83;
+$color-green: #959595;
+$color-banner: #7968d8;
+$color-reserve: #fe1765;
+
+* {
+  margin: 0;
+  padding: 0;
+  font-family: $font-corporate;
+  box-sizing: border-box;
+  //   width: 100vw;
+  color: $color-green;
+}
