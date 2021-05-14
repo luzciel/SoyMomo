@@ -17,3 +17,15 @@ $color-reserve: #fe1765;
   //   width: 100vw;
   color: $color-green;
 }
+
+body {
+  overflow-x: hidden;
+}
+
+.row {
+  justify-content: center;
+}
+
+.light-grey {
+  background-color: #fcfbfd;
+}
