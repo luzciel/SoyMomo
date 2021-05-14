@@ -10,7 +10,7 @@ const Performances = () => {
         <div className="row">
           <div className="col-12 performance-text">
             <p>
-              Maximo rendimiento, ¡diversión a la velocidad de la luz y en alta
+              Máximo rendimiento, ¡diversión a la velocidad de la luz y en alta
               calidad!
             </p>
             <img src={iconRendimiento} alt="" />
