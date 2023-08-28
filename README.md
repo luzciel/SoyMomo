@@ -24,4 +24,4 @@ $ npm start
 
 Abra http://localhost:3000 para verlo en el navegador.
 
-El proyecto también puede ser visualizado sin ninguna instalación mediante la URL pública [https://soy-momo.web.app/](https://soy-momo.web.app/)
+El proyecto también puede ser visualizado sin ninguna instalación mediante la URL pública [Link](https://todos-app-sigma-nine.vercel.app/)
